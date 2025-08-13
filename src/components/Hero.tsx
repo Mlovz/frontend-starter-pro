@@ -14,7 +14,7 @@ export function Hero() {
           transition={{ duration: 0.7 }}
           className="max-w-3xl text-4xl md:text-6xl font-extrabold leading-tight"
         >
-          Design your next <span className="text-primary-300">escape</span> with Wanderly
+          Design your <span className="text-primary-300">escape</span> with Wanderly
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
